@@ -1,0 +1,24 @@
+.edu-table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.edu-table th,
+.edu-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+.edu-table th {
+  background: #4e73df;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .edu-table {
+    width: 100%;
+  }
+}

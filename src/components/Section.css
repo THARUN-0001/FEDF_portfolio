@@ -1,0 +1,15 @@
+.site-section {
+  padding: 60px 10%;
+  text-align: center;
+}
+
+.site-section h2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #000000;
+}
+
+.about-text {
+  max-width: 700px;
+  margin: auto;
+}
